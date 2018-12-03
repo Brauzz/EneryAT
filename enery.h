@@ -3,8 +3,8 @@
 #include <opencv2/opencv.hpp>
 #define ACCEPT_TIME 2500
 #define ROU1 100
-#define ROU2 110
-#define ARMOR_WIDTH 10
+#define ROU2 120
+#define ARMOR_WIDTH 20
 
 using namespace std;
 using namespace cv;
